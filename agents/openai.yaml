@@ -1,0 +1,4 @@
+interface:
+  display_name: "国自然医疗卫生管理与政策申请辅导"
+  short_description: "按 G04 管理科学要求评题，提供五份匿名模拟函评、逐项检查表和原稿批注"
+  default_prompt: "请用 $nsfc-health-policy 评阅我的申请书，先看管理科学问题，再给出五位匿名模拟专家各自的评价、资助意见和四问评语，附原稿批注与逐项检查表。"
